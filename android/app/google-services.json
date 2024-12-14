@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480236844627",
+    "project_id": "login-7cf41",
+    "storage_bucket": "login-7cf41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480236844627:android:7fae6b907e3f60d3c2b8a6",
+        "android_client_info": {
+          "package_name": "com.example.revaconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADSbWP_Enctfy3YVCo_1E6vvmv9Apu_5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
